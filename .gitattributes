@@ -1,0 +1,3 @@
+script.py linguist-detectable=true
+python_eda.ipynb linguist-detectable=true
+*.html linguist-detectable=false
