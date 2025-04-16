@@ -1,3 +1,2 @@
-script.py linguist-detectable=true
-lichess_eda.ipynb linguist-detectable=true
-*.html linguist-detectable=false
+* linguist-vendored
+*.py linguist-vendored=false
